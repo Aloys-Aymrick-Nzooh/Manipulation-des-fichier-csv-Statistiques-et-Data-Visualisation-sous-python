@@ -1,0 +1,28 @@
+le total de credit du pays Hong Kong est 58600.0 
+le total de credit du pays Philippines est 81500.0 
+le total de credit du pays Spain est 517800.0 
+le total de credit du pays Canada est 228600.0 
+le total de credit du pays Singapore est 201700.0 
+le total de credit du pays Japan est 175600.0 
+le total de credit du pays Switzerland est 141300.0 
+le total de credit du pays USA est 2811700.0 
+le total de credit du pays Portugal est 0.0 
+le total de credit du pays Italy est 388800.0 
+le total de credit du pays Russia est 0.0 
+le total de credit du pays South Africa est 0.0 
+le total de credit du pays Australia est 430300.0 
+le total de credit du pays Norway   est 191900.0 
+le total de credit du pays Israel est 0.0 
+le total de credit du pays UK est 443700.0 
+le total de credit du pays Netherlands est 0.0 
+le total de credit du pays Norway est 81700.0 
+le total de credit du pays Germany est 257100.0 
+le total de credit du pays Austria est 117000.0 
+le total de credit du pays Finland est 285800.0 
+le total de credit du pays France est 932300.0 
+le total de credit du pays New Zealand est 362500.0 
+le total de credit du pays Denmark est 204200.0 
+le total de credit du pays Ireland est 69400.0 
+le total de credit du pays Poland est 0.0 
+le total de credit du pays Belgium est 103400.0 
+le total de credit du pays Sweden est 169500.0 

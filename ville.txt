@@ -1,0 +1,100 @@
+ le total de credit de la ville de  est 231800.0 
+ le total de credit de la ville de Århus est 120800.0 
+ le total de credit de la ville de Charleroi est 23500.0 
+ le total de credit de la ville de 67 est 104600.0 
+ le total de credit de la ville de Nashua est 114200.0 
+ le total de credit de la ville de Lille est 82900.0 
+ le total de credit de la ville de Cowes est 93900.0 
+ le total de credit de la ville de Bern est 0.0 
+ le total de credit de la ville de Mannheim est 0.0 
+ le total de credit de la ville de Melbourne est 117300.0 
+ le total de credit de la ville de Oslo est 95100.0 
+ le total de credit de la ville de Salzburg est 71700.0 
+ le total de credit de la ville de Milan est 34800.0 
+ le total de credit de la ville de Glendale est 60700.0 
+ le total de credit de la ville de Brisbane est 60300.0 
+ le total de credit de la ville de Lyon est 123900.0 
+ le total de credit de la ville de Reggio Emilia est 121400.0 
+ le total de credit de la ville de Level 11 est 86800.0 
+ le total de credit de la ville de Luleå est 53100.0 
+ le total de credit de la ville de Toulouse est 61100.0 
+ le total de credit de la ville de Kita-ku est 81200.0 
+ le total de credit de la ville de Allentown est 100600.0 
+ le total de credit de la ville de Bruxelles est 79900.0 
+ le total de credit de la ville de Versailles est 77900.0 
+ le total de credit de la ville de Saint Petersburg est 0.0 
+ le total de credit de la ville de Philadelphia est 153700.0 
+ le total de credit de la ville de Hatfield est 0.0 
+ le total de credit de la ville de Burbank est 55400.0 
+ le total de credit de la ville de Cork est 0.0 
+ le total de credit de la ville de Stuttgart est 0.0 
+ le total de credit de la ville de Leipzig est 0.0 
+ le total de credit de la ville de Köln est 120400.0 
+ le total de credit de la ville de Pasadena est 90700.0 
+ le total de credit de la ville de New Bedford est 180300.0 
+ le total de credit de la ville de Level 2 est 88000.0 
+ le total de credit de la ville de Helsinki est 96500.0 
+ le total de credit de la ville de Montréal est 48700.0 
+ le total de credit de la ville de Central Hong Kong est 58600.0 
+ le total de credit de la ville de San Diego est 105000.0 
+ le total de credit de la ville de 33 est 65700.0 
+ le total de credit de la ville de Frankfurt est 59700.0 
+ le total de credit de la ville de Lisboa est 0.0 
+ le total de credit de la ville de Brandenburg est 0.0 
+ le total de credit de la ville de Manchester est 136800.0 
+ le total de credit de la ville de Cunewalde est 0.0 
+ le total de credit de la ville de  19-1 Urb. La Florida est 0.0 
+ le total de credit de la ville de Los Angeles est 57700.0 
+ le total de credit de la ville de Fribourg est 0.0 
+ le total de credit de la ville de South Brisbane est 51600.0 
+ le total de credit de la ville de Auckland   est 110000.0 
+ le total de credit de la ville de Espoo est 98800.0 
+ le total de credit de la ville de Strasbourg est 53800.0 
+ le total de credit de la ville de Singapore est 97900.0 
+ le total de credit de la ville de München est 0.0 
+ le total de credit de la ville de Minato-ku est 94400.0 
+ le total de credit de la ville de White Plains est 102700.0 
+ le total de credit de la ville de Level 15 est 107800.0 
+ le total de credit de la ville de Bräcke est 116400.0 
+ le total de credit de la ville de Brickhaven est 162400.0 
+ le total de credit de la ville de Tsawassen est 89600.0 
+ le total de credit de la ville de London est 120300.0 
+ le total de credit de la ville de Warszawa est 0.0 
+ le total de credit de la ville de Reims est 81100.0 
+ le total de credit de la ville de Bridgewater est 84300.0 
+ le total de credit de la ville de San Francisco est 169600.0 
+ le total de credit de la ville de New Haven est 95400.0 
+ le total de credit de la ville de Chatswood est 93300.0 
+ le total de credit de la ville de Stavern est 81700.0 
+ le total de credit de la ville de Barcelona est 60300.0 
+ le total de credit de la ville de San Jose est 77600.0 
+ le total de credit de la ville de Bronz Apt. 3/6 Tesvikiye est 103800.0 
+ le total de credit de la ville de Kobenhavn est 83400.0 
+ le total de credit de la ville de Nantes est 139200.0 
+ le total de credit de la ville de Münster est 0.0 
+ le total de credit de la ville de Vancouver est 90300.0 
+ le total de credit de la ville de Las Vegas est 71800.0 
+ le total de credit de la ville de Burlingame est 84600.0 
+ le total de credit de la ville de Bergen est 96800.0 
+ le total de credit de la ville de NYC est 437100.0 
+ le total de credit de la ville de Newark est 43000.0 
+ le total de credit de la ville de Marseille est 65000.0 
+ le total de credit de la ville de San Rafael est 210500.0 
+ le total de credit de la ville de Amsterdam est 0.0 
+ le total de credit de la ville de 8 Temasek est 0.0 
+ le total de credit de la ville de Torino est 113000.0 
+ le total de credit de la ville de Madrid est 287200.0 
+ le total de credit de la ville de Cambridge est 167100.0 
+ le total de credit de la ville de  Berkeley Gardens Blvd est 92700.0 
+ le total de credit de la ville de Dublin est 69400.0 
+ le total de credit de la ville de Boston est 127000.0 
+ le total de credit de la ville de Paris est 247400.0 
+ le total de credit de la ville de Auckland est 77700.0 
+ le total de credit de la ville de Bergamo est 119600.0 
+ le total de credit de la ville de Munich est 77000.0 
+ le total de credit de la ville de Aachen est 0.0 
+ le total de credit de la ville de Makati City est 81500.0 
+ le total de credit de la ville de Graz est 45300.0 
+ le total de credit de la ville de Glen Waverly est 60300.0 
+ le total de credit de la ville de Berlin est 0.0 
+ le total de credit de la ville de 3 Hagalim Blv. est 0.0 
